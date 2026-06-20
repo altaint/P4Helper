@@ -47,7 +47,7 @@ public class MainWindow : Window, IDisposable
             new("L-Water", "Stack", "Spread", 215696u),
             new("L-Lightning", "Spread", "Stack", 215623u),
             new("L-Gaze", "Look Away", "Look At", 215588u),
-            new("Fluid", "In", "Out", 215902u),
+            new("Fluid", "In", "Out", 215903u),
         ]),
         ("[Misc]",
         [
